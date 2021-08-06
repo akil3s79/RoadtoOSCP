@@ -5,3 +5,7 @@
   · Se añade una plantilla en formato PDF como ejemplo del exámen (Oficial de Offensive Security).
   · Se añade una plantilla en formato PDF como ejemplo del exámen (https://github.com/noraj/OSCP-Exam-Report-Template-Markdown/blob/master/output/OSCP-exam-report-template_whoisflynn_v3.2.pdf)
   · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer"
+6 Agosto de 2021: 
+  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer"
+  · Se añade una nueva pestaña llamada "Practica el OSCP" en la que se irán metiendo grupos de máquinas parecidas a las del examen, categorizadas con puntos y dificultad.
+  · Se añaden máquinas de VulnHub en la pestaña principal. 
