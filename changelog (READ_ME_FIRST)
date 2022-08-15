@@ -5,35 +5,35 @@
   · Se añade una fichero en formato DOCX de reporte del exámen (Oficial de Offensive Security).
   · Se añade una plantilla en formato PDF como ejemplo del exámen (Oficial de Offensive Security).
   · Se añade una plantilla en formato PDF como ejemplo del exámen (https://github.com/noraj/OSCP-Exam-Report-Template-Markdown/blob/master/output/OSCP-exam-report-template_whoisflynn_v3.2.pdf).
-  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer".
+  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas y recursos".
   
 6 Agosto de 2021: 
-  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer".
+  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas y recursos".
   · Se añade una nueva pestaña llamada "Practica el OSCP" en la que se irán metiendo grupos de máquinas parecidas a las del examen, categorizadas con puntos y dificultad.
   · Se añaden máquinas de VulnHub en la pestaña principal. 
   
 20 Agosto de 2021:
-  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer".
+  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas y recursos".
   · En la pestaña llamada "Practica el OSCP", se añade otro set de máquinas para practicar.
 
 26 Agosto de 2021:
-  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer". Ya tenéis disponibles 150 recursos.
+  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas y recursos". Ya tenéis disponibles 150 recursos.
   · En la pestaña llamada "Practica el OSCP", se añade otro set de máquinas para practicar. En este caso de Offensive Security (de pago).
   
 16 Septiembre de 2021:  
-  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer". Ya tenéis disponibles 184 recursos.
+  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas y recursos". Ya tenéis disponibles 184 recursos.
   · En la pestaña llamada "Practica el OSCP", se añade otro set de máquinas para practicar. En este caso he añadido 3 sets de máquinas de HackTheBox, TryHackMe y Vulnhub.
 
 28 Octubre de 2021:  
-  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer". Ya tenéis disponibles 200 recursos.
+  · Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas y recursos". Ya tenéis disponibles 200 recursos.
   · Se crea una pestaña nueva llamada "Herramientas para los informes", en la que podeis probar varias herramientas e incluso descargar plantillas para estas.
 
 02 Marzo de 2022:
-· Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer". Ya tenéis disponibles 223 recursos.
+· Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas y recursos". Ya tenéis disponibles 223 recursos.
 · Se crea una pestaña nueva llamada "Si eres muy nuevo", en la que podeis probar varias "rooms" en TryHackMe. Estas te van a ayudar bastante si te estás iniciando. Algunas incluso te dan un diploma que acredita lo aprendido.
 
 15 Agosto de 2022:
 · ¡1er aniversario de la salida de este proyecto!
 · Con motivo del primer año de vida del proyecto, se cambia el número de versionado, de la V0x a la V1x.
-· Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas a conocer". Ya tenéis disponibles 235 recursos.
+· Se añade en el fichero original (RoadToOSCP) nuevos recursos en la pestaña "Herramientas y recursos". Ya tenéis disponibles 235 recursos.
 · Se crea una pestaña nueva llamada "Plataformas hacking" donde poder practicar, tanto tipo curso, como para realizar máquinas.
